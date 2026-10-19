@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "CC1101RGPR")(type "KiCad")(uri "${KIPRJMOD}/CC1101RGPR/footprints.pretty")(options "")(descr "Project CC1101RGPR footprints"))
+  (lib (name "CMT-7525-80-SMT-TR")(type "KiCad")(uri "${KIPRJMOD}/CMT-7525-80-SMT-TR")(options "")(descr "Project transducer footprint"))
+  (lib (name "IP5306")(type "KiCad")(uri "${KIPRJMOD}/IP5306")(options "")(descr "Project IP5306 footprint"))
+  (lib (name "SI2302")(type "KiCad")(uri "${KIPRJMOD}/SI2302")(options "")(descr "Project SI2302 footprints"))
+  (lib (name "TSOP1738")(type "KiCad")(uri "${KIPRJMOD}/TSOP1838")(options "")(descr "Project TSOP17XX footprint"))
+)
