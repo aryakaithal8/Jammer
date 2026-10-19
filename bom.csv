@@ -1,0 +1,59 @@
+﻿Name,Purpose,Quantity,Total Cost ($),Link,Distributor
+0603WAF500LT5E [C45312],"Battery RC-filter resistor (R18, 1 fitted); check dissipation.",100,0.44,https://www.lcsc.com/product-detail/C45312.html,LCSC
+RC0603JR-070RL [C95177],"IR LED/base links (R36,R37, 2 fitted); current limiting unresolved.",100,0.24,https://www.lcsc.com/product-detail/C95177.html,LCSC
+RC0603FR-07100KL [C14675],"Battery divider and VBUS RC bias (R9,R19,R21, 3 fitted).",100,0.27,https://www.lcsc.com/product-detail/C14675.html,LCSC
+CC0603KRX7R9BB104 [C14663],"Supply bypass and reset filtering (C6,C8,C9,C15,C17, 5 fitted).",50,0.55,https://www.lcsc.com/product-detail/C14663.html,LCSC
+RC0603FR-0710KL [C98220],"SPI pull-ups, power bias and display pull-downs (8 fitted).",100,0.36,https://www.lcsc.com/product-detail/C98220.html,LCSC
+CL10A106KP8NNNC [C19702],"Main supply bulk/RC capacitors (C1,C4,C5,C7,C13,C14,C16,C18, 8 fitted).",20,0.55,https://www.lcsc.com/product-detail/C19702.html,LCSC
+CL21A106KAYNNNE [C15850],"Shield 3.3V bulk capacitors (C20-C22, 3 fitted).",20,0.88,https://www.lcsc.com/product-detail/C15850.html,LCSC
+RC0603FR-0712KL [C114659],"Auto-reset transistor base resistors (R3,R4, 2 fitted).",100,0.39,https://www.lcsc.com/product-detail/C114659.html,LCSC
+RC0603FR-071KL [C22548],"LED/data, I2C, expander-address and transistor bias resistors (14 fitted).",100,0.36,https://www.lcsc.com/product-detail/C22548.html,LCSC
+CL21A225KAFNNNE [C87994],"3.3V regulator input/output bypass (C2,C3, 2 fitted).",20,0.84,https://www.lcsc.com/product-detail/C87994.html,LCSC
+CL10A226MP8NUNE [C86295],"Boost-output smoothing (C10-C12, 3 fitted).",10,0.37,https://www.lcsc.com/product-detail/C86295.html,LCSC
+RC0603FR-074K7L [C99782],"ESP32 EN/BOOT pull-ups (R17,R22, 2 fitted).",100,0.32,https://www.lcsc.com/product-detail/C99782.html,LCSC
+0603WAF4700T5E [C23179],"USB bridge UART series resistor (R2, 1 fitted).",100,0.23,https://www.lcsc.com/product-detail/C23179.html,LCSC
+RC0603FR-075K1L [C105580],"USB-C CC pull-downs (R5,R6,R14,R16, 4 fitted).",100,0.23,https://www.lcsc.com/product-detail/C105580.html,LCSC
+AO3401A [C15127],"USB/battery power-source switching (Q4, 1 fitted).",5,0.52,https://www.lcsc.com/product-detail/C15127.html,LCSC
+M20-9990246 [C3332353],"Battery connection (BT1, 1 fitted).",5,0.41,https://www.lcsc.com/product-detail/C3332353.html,LCSC
+CC1101RGPR [C29953],Sub-GHz radio IC (U11); missing support/matching circuitry.,1,1.95,https://www.lcsc.com/product-detail/C29953.html,LCSC
+CMT-7525-80-SMT-TR [C3151660],Audible feedback (LS1); GPIO2 also used by battery divider.,1,2.4,https://www.lcsc.com/product-detail/C3151660.html,LCSC
+CP2102N-A02-GQFN28R [C964632],USB-to-UART bridge for programming/console (U2).,1,2.08,https://www.lcsc.com/product-detail/C964632.html,LCSC
+PPTC181LFBN-RC [S7016-ND],"18-pin display socket (J5), 2.54mm pitch, 8.51mm height. Verified DigiKey cart replacement for unshippable Electrokit selection. Adapter unresolved.",1,1.13,https://www.digikey.in/en/products/detail/sullins-connector-solutions/PPTC181LFBN-RC/810156,DigiKey
+Amphenol RF 132289 - SMA edge-launch jack,Eleven antenna connectors; frozen RF nets require review.,11,85.66,https://www.mouser.com/en/ProductDetail/Amphenol-RF/132289?qs=nhkRCwpTkeb9ti20UXE5Cg%3D%3D,Mouser
+ESP32-S3-WROOM-1-N16 [C2913199],Main controller with Wi-Fi/BLE (U4); N16 variant candidate.,1,5.16,https://www.lcsc.com/product-detail/C2913199.html,LCSC
+IP5306-I2C [C488349],"Battery charger/boost IC (U3). Exact I2C variant. 1 fitted, minimum batch 5. Verified in cumulative cart.",5,1.75,https://www.lcsc.com/product-detail/C488349.html,LCSC
+TSAL6200 [C55528],"IR remote emitter (D8, 1 fitted); drive-current limiting unresolved.",5,0.85,https://www.lcsc.com/product-detail/C55528.html,LCSC
+AWLU0530F-1R0MGA [C54123615] - proposed L1 replacement,"Boost inductor, 1uH, 10A, 16.5A saturation, 5.2x5mm. Requires layout footprint replacement. Verified in LCSC cart.",1,0.6,https://www.lcsc.com/product-detail/C54123615.html,LCSC
+LTST-C193KRKT-5A [C157741],"TX/RX and shield power indicators (D5,D6,D9, 3 fitted); red candidate.",50,0.86,https://www.lcsc.com/product-detail/C157741.html,LCSC
+LF33CV [C2832779],5V-to-3.3V linear regulator (U1).,1,1.69,https://www.lcsc.com/product-detail/C2832779.html,LCSC
+NRF24L01P-R [C8791],Three 2.4GHz radio ICs (U7-U9); missing support circuits.,3,13.47,https://www.lcsc.com/product-detail/C8791.html,LCSC
+"PCF8574T/3,518 [C7605]",Six-button I2C input expander (U5).,1,2.14,https://www.lcsc.com/product-detail/C7605.html,LCSC
+S8050 [C717453],"Auto-reset, buzzer and IR switching (Q1-Q3,Q5); verify lead order (4 fitted).",20,0.52,https://www.lcsc.com/product-detail/C717453.html,LCSC
+TE Connectivity 2041021-3 - SD socket,Exact original SD socket (J4). ODG vendor-listed stock. One piece verified in cart. Obsolete part; sourcing authenticity/condition not independently verified.,1,54.3,https://www.origin-ic.com/products/detail/2041021-3/9671043,ODG Electronics
+SI2302-TP [C77977],Display backlight low-side switch (MOSFET1).,10,1.02,https://www.lcsc.com/product-detail/C77977.html,LCSC
+SS12 [C432149],"USB power isolation diode (D7, 1 fitted).",20,0.38,https://www.lcsc.com/product-detail/C432149.html,LCSC
+JS102011SAQN [C221660],Main power slide switch (SW4).,1,0.86,https://www.lcsc.com/product-detail/C221660.html,LCSC
+ThinkRobotics ELC7060 - TSOP1738,38kHz IR receiver (U10); verify pin order and 3.3V operation.,1,0.17,https://thinkrobotics.com/products/tsop1738-ir-receiver,ThinkRobotics
+GCT USB4105-GF-A - USB-C receptacle,"Two USB-C data/power sockets (J1,J3).",2,1.61,https://www.mouser.com/en/ProductDetail/GCT/USB4105-GF-A?qs=KUoIvG%2F9IlY%2FMLlBMpStpA%3D%3D,Mouser
+WS2812B-2020-V6 [C52917434],Four RGB indicators (D1-D4); V6 candidate needs compatibility check.,5,0.46,https://www.lcsc.com/product-detail/C52917434.html,LCSC
+TSC2046IRGVR [C2651796] - proposed substitute,Touch controller (U6). Matching signal pinout. Land pattern/firmware check pending. Verified in 33-line LCSC cart.,1,2.26,https://www.lcsc.com/product-detail/C2651796.html,LCSC
+Panasonic EVQ-PUJ02K - tactile switch,"Navigation, power/wake, reset and boot switches (9 fitted); buy 10.",10,5.42,https://www.mouser.com/en/ProductDetail/Panasonic-Industry/EVQ-PUJ02K?qs=Pa1bP%252BeMzadWe338tXJdGA%3D%3D,Mouser
+Harwin M20-7831046 - 2x10 female socket,Main-to-shield female socket (J2); confirm mating height.,1,2.29,https://www.mouser.com/en/ProductDetail/Harwin/M20-7831046?qs=vF78I%252BjhbY%252BXDATeu1%252BhjQ%3D%3D,Mouser
+Harwin M20-9981046 - 2x10 male header,"Shield stack/auxiliary male headers (J9,J10, 2 fitted).",2,1.43,https://www.mouser.com/en/ProductDetail/Harwin/M20-9981046?qs=Jph8NoUxIfV2aQ116WjWng%3D%3D,Mouser
+Robu 62026 - 2.8-inch SPI touch display,Display/touch module; ST7789 listing conflicts with earlier reference; adapter needed.,1,11.78,https://robu.in/product/2-8-inch-spi-touch-screen-module-tft-interface-240320/,Robu
+WLY752530 - protected 1S 500 mAh LiPo,Protected 1S battery candidate; OUT OF STOCK; charge/discharge limits unresolved.,1,2.83,https://robu.in/product/500mah-pcm-protected-micro-li-po-battery/,Robu
+PCB fabrication - main,"Saved cart Y60: 5 boards, 2 layers, 53.09x100.46mm, 1.6mm, black ENIG 1uin. Engineering review pending.",5,21.2,https://cart.jlcpcb.com/quote,JLCPCB
+PCB fabrication - shield,"Saved cart Y61: 5 boards, 2 layers, 53.09x100.46mm, 1.6mm, black ENIG 1uin. Engineering review pending.",5,21.2,https://cart.jlcpcb.com/quote,JLCPCB
+Printed enclosure set,"All 13 designs / 22 pieces saved in cumulative JLC cart: 7 button caps, 4 spacers, other parts one each. 3201PA-F nylon structure and 8001 transparent resin guides. Parts USD55.95. Manufacturing review pending.",22,55.95,https://jlc3dp.com/3d-printing-quote,JLC3DP
+"M2.5x50 screws and M2.5 nuts [3F-00125-424-2017, 3F-00125-213-1707]","Four PCB stack sets. Fully threaded screws INR260 plus nuts INR9.60, before tax. Cut-to-length candidate; final engagement/clearance verification pending.",4,2.84,https://3fparts.com/cart,3FParts
+M3x8 lid screw pack [MEC7001-M3/8],"Four lid screws, purchase 10 for INR75.99. Separate compatible inserts still required. Fit check pending.",10,0.8,https://thinkrobotics.com/products/18-8-stainless-steel-socket-head-screws-metric,ThinkRobotics
+M2.5x5 hatch screw pack [MEC7001-M2.5/5],"Four hatch screws, purchase 10 for INR49.99. Proposed length. Printed pilot-thread fit requires verification.",10,0.53,https://thinkrobotics.com/products/18-8-stainless-steel-socket-head-screws-metric,ThinkRobotics
+"M3x16 screws and M3 nuts [MEC7001-M3/16, MEC7012-M3]","Stand fastener candidates: 10 bolts plus 20 nuts, INR89.99 + INR49.99. Final fit and engagement pending.",1,1.47,https://thinkrobotics.com/cart,ThinkRobotics
+Robu 7449 - display wiring pack,"Forty 20cm female/female jumper wires, INR49 incl GST. Hand-wired adapter candidate. Pin mapping, terminations and enclosure clearance remain unresolved.",1,0.52,https://robu.in/product/20cm-dupont-wire-color-jumper-cable-2-54mm-1p-1p-female-female-40pcs/,Robu
+Shipping - LCSC,33-line cumulative cart to India PIN560060. Singapore Post USD6.94. Net merchandise USD45.41; cart total USD52.35. Import fees extra.,1,6.94,https://www.lcsc.com/cart,LCSC
+Shipping - Mouser,"India flat delivery charge INR 1200; FCA, duties/customs/taxes due at delivery.",1,12.64,https://www.mouser.in/en/Cart/,Mouser
+Shipping - DigiKey,"Cart shipping estimate USD20, DHL Express International. Full destination and import-charge verification pending.",1,20,https://www.digikey.in/ordering/shoppingcart,DigiKey
+Shipping - JLCPCB and JLC3DP combined,All 15 project fabrication lines selected: 2 PCB batches + 13 print designs. Merchandise USD98.35 + UPS freight USD9.78 = USD108.13 to PIN560060. CPT; import fees extra.,1,9.78,https://jlc3dp.com/shopcart/cart,JLCPCB / JLC3DP
+Robu R267266 - M3 heat-set insert kit,"Lid inserts: four M3x5x5mm candidates from 400-piece kit, INR1519 incl GST. OD5mm for modeled 4.6mm pilot; nylon installation/fit check pending.",1,16,https://robu.in/product/brass-heat-set-insert-nut-hot-melt-knurled-threaded-m3-400pcs-kit/,Robu
+Shipping - ODG Electronics,Shipping,1,77.68,https://www.origin-ic.com/account/shopping-cart,ODG Electronics
+Total,,,459.58,,
