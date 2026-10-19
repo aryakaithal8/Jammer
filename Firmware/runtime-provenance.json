@@ -1,0 +1,7 @@
+{
+  "source": "https://micropython.org/resources/firmware/ESP32_GENERIC_S3-20251209-v1.27.0.bin",
+  "version": "1.27.0",
+  "target": "ESP32_GENERIC_S3 standard, no Octal SPIRAM",
+  "bytes": 1753904,
+  "sha256": "f533115edca660863b1308445d5c08e3fa108b34c39229a53c2f984a8186a9cd"
+}

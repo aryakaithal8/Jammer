@@ -1,0 +1,11 @@
+{
+  "battery_calibration": 1.0,
+  "touch_calibration": null,
+  "nrf_channel": 76,
+  "nrf_address": "ESP32",
+  "cc_band": 1,
+  "wifi_ssid": "",
+  "wifi_password": "",
+  "packet_message": "ESP32DIV2",
+  "logging": false
+}
